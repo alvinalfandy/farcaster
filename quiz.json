@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your Web3 & AI skills with this quiz!",
+  "questions": [
+    {
+      "question": "Who created Ethereum blockchain?",
+      "answers": ["Vitalik", "Elon", "Satoshi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the purpose of an NFT?",
+      "answers": ["Art", "Key", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Program", "Token", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Polygon chain is a?",
+      "answers": ["Layer2", "Layer1", "Oracle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created ChatGPT?",
+      "answers": ["OpenAI", "Vitalik", "Google"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Gas fees paid in?",
+      "answers": ["ETH", "BTC", "USDT"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "DApp stands for?",
+      "answers": ["App", "Node", "Gas"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is LayerZero?",
+      "answers": ["Bridge", "Bot", "DEX"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "DeFi means?",
+      "answers": ["Finance", "Oracle", "Image"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Example of stablecoin?",
+      "answers": ["USDT", "BTC", "ETH"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "AI is used for?",
+      "answers": ["Data", "Token", "Gas"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Metamask?",
+      "answers": ["Wallet", "DEX", "Oracle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does an oracle provide?",
+      "answers": ["Data", "Gas", "Block"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ETH is a?",
+      "answers": ["Token", "DEX", "Bot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BNB Chain is called?",
+      "answers": ["BSC", "ETH", "BTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "AI-native chain example?",
+      "answers": ["Fetch", "BTC", "USDT"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "AI bots are used for?",
+      "answers": ["Chat", "Gas", "DEX"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "DAO is a type of?",
+      "answers": ["Group", "Token", "Block"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "AI can create?",
+      "answers": ["Images", "Gas", "Coins"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Cheapest gas fees on?",
+      "answers": ["Polygon", "ETH", "BTC"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
